@@ -25,5 +25,5 @@ try {
 var b = (function g() {
     console.log('inside g');
     return 1;
-})
+});
 console.log(b);
